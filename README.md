@@ -10,3 +10,8 @@
 - Jenkins job triggered this time
 
 ## 3rd change to dev branch - use to test Job 2 (standalone first)
+
+- Didn't work straight away
+- Needed to checkout dev branch, then go back to main branch before merging
+
+## 4th change to dev branch - check Job 1 and 2 trigger after each other
