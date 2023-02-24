@@ -15,8 +15,8 @@ sudo apt-get install python-software-properties -y
 curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
 sudo apt-get install nodejs -y
 
-# install pm2
-sudo npm install pm2 -g
+# install forever to run processes in the background
+sudo npm install forever -g
 
 sudo apt-get install nginx -y
 
@@ -27,3 +27,11 @@ sudo apt-get install nginx -y
 # finally, restart the nginx service so the new config takes hold
 #sudo service nginx restart
 #sudo service nginx enable
+
+#cd app
+# install app
+#npm install
+# stop all old processes running with forever
+#forever stopall
+# run the app in the background
+#forever start app.js
