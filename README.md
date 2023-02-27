@@ -19,3 +19,5 @@
 ## 5th change on dev branch - re-started EC2 instance
 
 ## 6th change on dev branch - test using Jenkins plugin for merge into of git commands
+
+## 7th change on dev branch - test merging - it has been working on Jenkins Job 2
