@@ -17,3 +17,5 @@
 ## 4th change to dev branch - check Job 1 and 2 trigger after each other
 
 ## 5th change on dev branch - re-started EC2 instance
+
+## 6th change on dev branch - test using Jenkins plugin for merge into of git commands
