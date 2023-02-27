@@ -15,3 +15,5 @@
 - Needed to checkout dev branch, then go back to main branch before merging
 
 ## 4th change to dev branch - check Job 1 and 2 trigger after each other
+
+## 5th change on dev branch - re-started EC2 instance
